@@ -1,6 +1,6 @@
 # Prevision_series_chronologiques
 
-j'ai travaille sur une série chronologique mensuelle (Indice de chiffre d'affaires - Commerce et réparation de motocycles) comportant 272 observations, non corrigées, le but de ce projet est de prédire la série pour l'année à venir.
+j'ai travaillé sur une série chronologique mensuelle (Indice de chiffre d'affaires - Commerce et réparation de motocycles) comportant 272 observations, non corrigées, le but de ce projet est de prédire la série pour l'année à venir.
 
 Au debut, j'ai écrit une introduction qui comprenait une brève présentation de la série, indiquait la source exacte des données et fournissait une infographie de haute qualité.
 
